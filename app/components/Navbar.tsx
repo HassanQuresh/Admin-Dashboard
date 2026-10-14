@@ -39,7 +39,7 @@ export default function Navbar() {
               Hassan
             </p>
             <p className="text-xs text-gray-500">
-              Frontend Developer
+              Full Stack Developer
             </p>
           </div>
         </div>
